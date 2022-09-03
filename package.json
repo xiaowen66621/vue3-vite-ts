@@ -36,7 +36,7 @@
     "@types/qs": "6.9.7",
     "@typescript-eslint/eslint-plugin": "5.9.0",
     "@typescript-eslint/parser": "5.9.0",
-    "@vitejs/plugin-vue": "2.0.1",
+    "@vitejs/plugin-vue": "2.3.4",
     "@vue/compiler-sfc": "3.2.26",
     "@vue/test-utils": "2.0.0-rc.16",
     "autoprefixer": "10.4.1",
